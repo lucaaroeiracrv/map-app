@@ -33,8 +33,8 @@ export default function App() {
       const TorreDoCastelo = {
         latitude: -22.890128,
         longitude: -47.077229,
-        latitudeDelta: 0.1,
-        longitudeDelta: 0.1
+        latitudeDelta: 0.02,
+        longitudeDelta: 0.02
     };
     // console.log('OI');
 		mapRef.current?.animateToRegion(TorreDoCastelo);
