@@ -1,16 +1,23 @@
 export const markers = [
     {
-        latitude: 37.7749,
-        longitude: -122.4194,
+        latitude: -22.874914051532258,
+        longitude: -47.05968751258598,
         latitudeDelta: 0.01,
         longitudeDelta: 0.01,
-        nome: 'San Francisco Center',
+        name: 'Lagoa do Taquaral'
     },
     {
-        latitude: 37.8077,
-        longitude: -122.475,
+        latitude: -22.909921,
+        longitude: -47.059762,
         latitudeDelta: 0.01,
         longitudeDelta: 0.01,
-        nome: 'Golden Gate Bridge',
+        name: 'Bento Quirino'
+    },
+    {
+        latitude: -22.847781,
+        longitude:  -47.063046,
+        latitudeDelta: 0.01,
+        longitudeDelta: 0.01,
+        name: 'Parque D. Pedro Shopping'
     },
 ]
