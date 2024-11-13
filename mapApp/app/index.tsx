@@ -36,7 +36,7 @@ export default function App() {
         latitudeDelta: 0.1,
         longitudeDelta: 0.1
     };
-    console.log('OI');
+    // console.log('OI');
 		mapRef.current?.animateToRegion(TorreDoCastelo);
   };
   
