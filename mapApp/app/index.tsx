@@ -1,4 +1,5 @@
 import React, { useEffect, useRef } from 'react';
+import * as SplashScreen from 'expo-splash-screen';
 import MapView, { Marker, PROVIDER_GOOGLE, Region } from 'react-native-maps';
 import { StyleSheet, TouchableOpacity, View, Text, Alert } from 'react-native';
 import { markers } from '../assets/marker';
@@ -16,6 +17,14 @@ export default function App() {
 
   const mapRef = useRef<any>();
   const navigation = useNavigation();
+
+  useEffect(() => {
+    SplashScreen.preventAutoHideAsync();
+
+    setTimeout(() => {
+      SplashScreen.hideAsync();  
+    }, 4000);
+  }, []);
 
 	useEffect(() => {
 		navigation.setOptions({
