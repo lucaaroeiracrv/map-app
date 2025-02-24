@@ -23,12 +23,3 @@ react-native-screens
 react-native-web
 react-native-maps
 
-
-Cauã Brasil
-Gabriel Calisto
-Leonardo Limas Rosa
-Lucas Xavier
-Rafael Ferreira Lucietto
-
-
-https://drive.google.com/file/d/1GpdrUh1T_kVzGwxiK71kDGeupEyfSTL3/view?usp=sharing
