@@ -2,7 +2,6 @@
 
 [![Expo](https://img.shields.io/badge/built%20with-expo-1f61c.svg?logo=expo)](https://expo.dev/)
 [![React Native](https://img.shields.io/badge/react--native-0.76.1-blue?logo=react)](https://reactnative.dev/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![Contact](https://img.shields.io/badge/email-lucaaroeira@gmail.com-blue)](mailto:lucaaroeira@gmail.com)
 
 > Aplicativo de mapa interativo mostrando pontos conhecidos de Campinas.  
